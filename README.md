@@ -10,5 +10,5 @@ Credits to:
   - https://github.com/Spegeli/Pokemon-Go-Rocket-API
 
 Special thanks:
-  - To FeroxRev, for this AMAZING work!
+  - Cocain ;)
 
